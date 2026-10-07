@@ -1,0 +1,55 @@
+{
+  "checked_utc": "2026-10-07T10:16:06.619341+00:00",
+  "cases": [
+    {
+      "case": "actual own complete8-node pack",
+      "passed": true,
+      "report": {
+        "structural_check": "passed",
+        "nodes": 8,
+        "connections": 10,
+        "api_ui_parameters_match": true,
+        "synthetic_input_sha256": "21d4402eb9d4688ad9cd359bb12e8131744881b6d83d21ec5872e12b01dfef99",
+        "image_changed": false,
+        "server_contacted": false,
+        "model_loaded": false,
+        "actual_UI_import": "not tested",
+        "actual_colorization": "not executed",
+        "all_model_files_on_viewer_machine": "not checked"
+      }
+    },
+    {
+      "case": "nooverwrite",
+      "passed": true
+    },
+    {
+      "case": "missing_link",
+      "correctly_rejected": true
+    },
+    {
+      "case": "wrong_latent_output",
+      "correctly_rejected": true
+    },
+    {
+      "case": "wrong_cfg",
+      "correctly_rejected": true
+    },
+    {
+      "case": "missing_input",
+      "correctly_rejected": true
+    },
+    {
+      "case": "changed_prompt",
+      "correctly_rejected": true
+    },
+    {
+      "case": "extra_node",
+      "correctly_rejected": true
+    }
+  ],
+  "server_contacted": false,
+  "model_loaded": false,
+  "actual_UI_import": "not performed",
+  "actual_colorization": "not executed",
+  "source_unchanged": true
+}

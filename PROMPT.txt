@@ -1,0 +1,1 @@
+Colorize <image1> with restrained, plausible natural colors. Preserve every person's identity, age, expression, pose, clothing, composition and the original photographic grain. Do not add or remove people or objects. No beauty retouching, no new text. The colors are an interpretation, not a historical reconstruction.
