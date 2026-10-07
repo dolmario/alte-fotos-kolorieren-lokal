@@ -1,0 +1,27 @@
+{
+  "original": "C:\\Users\\JT\\.codex\\generated_images\\01a10cdf-d52b-7401-8dcd-4e723f99885b\\exec-2703de19-1cc8-4532-ae99-bcd9be93fe48.png",
+  "file": "EIGENES-SYNTHETISCHES-FOTO-SW.png",
+  "sha256": "21d4402eb9d4688ad9cd359bb12e8131744881b6d83d21ec5872e12b01dfef99",
+  "size": [
+    1086,
+    1448
+  ],
+  "tool": "built-in imagegen",
+  "synthetic": true,
+  "real_archive_photo": false,
+  "private_reference": false,
+  "actual_visual_review": true,
+  "strict_grayscale_pixel_check": "not exact grayscale; visually monochrome RGB input retained unchanged",
+  "channel_difference_extrema": [
+    [
+      0,
+      9
+    ],
+    [
+      0,
+      8
+    ]
+  ],
+  "observed_prompt_deviation": "requested three flowers; actual visible count is four. Do not claim exact three-flower prompt success. Input also has slight RGB differences, not a strict grayscale scan.",
+  "local_colorization_executed": false
+}

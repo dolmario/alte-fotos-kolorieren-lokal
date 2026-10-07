@@ -1,0 +1,23 @@
+{
+  "created_utc": "2026-10-07T10:14:54.591960+00:00",
+  "original_api": {
+    "file": "qwen21-colorize-api.json",
+    "sha256": "304ce71161c53d21e7beb019cd239f3fa5c5f22f48a39d1eb78801922bf6085e"
+  },
+  "installed_template": {
+    "file": "image_qwen_image_2_1_image_edit.json",
+    "sha256": "c1e6551759de131f083a040da072ac6f032c3c8401ceca202412cd912897d0fc"
+  },
+  "installed_node_schema": {
+    "file": "comfy_extras/nodes_qwen.py",
+    "sha256": "61a5e27f90bb786cd4f6e76ee86920582ffef2ee3e65cde7b2278c7171c559e8"
+  },
+  "own_changes": "reduced 8-node graph; no enhancer/cache/subgraph; own synthetic filename and output prefix",
+  "input": {
+    "file": "EIGENES-SYNTHETISCHES-FOTO-SW.png",
+    "sha256": "21d4402eb9d4688ad9cd359bb12e8131744881b6d83d21ec5872e12b01dfef99"
+  },
+  "actual_UI_import": "not performed",
+  "actual_colorization": "not executed",
+  "models_downloaded": false
+}
